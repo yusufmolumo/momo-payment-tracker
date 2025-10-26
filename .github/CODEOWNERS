@@ -1,0 +1,6 @@
+# CODEOWNERS file for momo-payment-tracker
+# These owners will be requested for review when someone opens a pull request
+
+# Global owners - all files
+* @yusufmolumo @ykwizera @SimeonAzeh
+
